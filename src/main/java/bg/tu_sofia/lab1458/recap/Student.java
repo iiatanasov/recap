@@ -1,4 +1,4 @@
-package bg.tu-sofia.lab1458.recap;
+package bg.tu_sofia.lab1458.recap;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
